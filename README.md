@@ -65,10 +65,6 @@ A **layered testbench** is used to simulate UVM-style verification while maintai
   - `module_coverage.png`: Screenshot of functional coverage report
   - `schematic.png`: Gate-level schematic diagram of the FFT module
 
-## Design Schematic
-
-![Schematic](results/schematic.png)
-
 ###  FFT 4-Point Simulation Result
 
 | Metric          | Value                          |
